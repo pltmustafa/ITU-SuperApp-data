@@ -1,0 +1,182 @@
+[
+  {
+    "brans": "BBF",
+    "dersNo": "103E",
+    "terms": [
+      {
+        "dersNo": "103E",
+        "donemKodu": "202520",
+        "yilAdi": "2024-2025",
+        "donemTip": "Spring Semester",
+        "toplamOgrenci": 225,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 17,
+            "Yuzde": 7.56
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 22,
+            "Yuzde": 9.78
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 24,
+            "Yuzde": 10.67
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 11,
+            "Yuzde": 4.89
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 10,
+            "Yuzde": 4.44
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 15,
+            "Yuzde": 6.67
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 15,
+            "Yuzde": 6.67
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 15,
+            "Yuzde": 6.67
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 14,
+            "Yuzde": 6.22
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 13,
+            "Yuzde": 5.78
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 6,
+            "Yuzde": 2.67
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 5,
+            "Yuzde": 2.22
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 9,
+            "Yuzde": 4.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 31,
+            "Yuzde": 13.78
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 18,
+            "Yuzde": 8.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brans": "BBF",
+    "dersNo": "201E",
+    "terms": [
+      {
+        "dersNo": "201E",
+        "donemKodu": "202610",
+        "yilAdi": "2025-2026",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 166,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 50,
+            "Yuzde": 30.12
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 7,
+            "Yuzde": 4.22
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 11,
+            "Yuzde": 6.63
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 7,
+            "Yuzde": 4.22
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 7,
+            "Yuzde": 4.22
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 10,
+            "Yuzde": 6.02
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 13,
+            "Yuzde": 7.83
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 7,
+            "Yuzde": 4.22
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 17,
+            "Yuzde": 10.24
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 7,
+            "Yuzde": 4.22
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 7,
+            "Yuzde": 4.22
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 9,
+            "Yuzde": 5.42
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 8,
+            "Yuzde": 4.82
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 6,
+            "Yuzde": 3.61
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      }
+    ]
+  }
+]
