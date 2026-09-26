@@ -1,0 +1,2708 @@
+[
+  {
+    "brans": "TES",
+    "dersNo": "111E",
+    "terms": [
+      {
+        "dersNo": "111E",
+        "donemKodu": "201910",
+        "yilAdi": "2018-2019",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 477,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 123,
+            "Yuzde": 25.79
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 117,
+            "Yuzde": 24.53
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 91,
+            "Yuzde": 19.08
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 56,
+            "Yuzde": 11.74
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 20,
+            "Yuzde": 4.19
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 13,
+            "Yuzde": 2.73
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 13,
+            "Yuzde": 2.73
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 43,
+            "Yuzde": 9.01
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202010",
+        "yilAdi": "2019-2020",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 635,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 138,
+            "Yuzde": 21.73
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 140,
+            "Yuzde": 22.05
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 158,
+            "Yuzde": 24.88
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 77,
+            "Yuzde": 12.13
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 39,
+            "Yuzde": 6.14
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 15,
+            "Yuzde": 2.36
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 11,
+            "Yuzde": 1.73
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 8,
+            "Yuzde": 1.26
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 49,
+            "Yuzde": 7.72
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202110",
+        "yilAdi": "2020-2021",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 583,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 165,
+            "Yuzde": 28.3
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 133,
+            "Yuzde": 22.81
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 116,
+            "Yuzde": 19.9
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 55,
+            "Yuzde": 9.43
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 27,
+            "Yuzde": 4.63
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 9,
+            "Yuzde": 1.54
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 6,
+            "Yuzde": 1.03
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 19,
+            "Yuzde": 3.26
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 53,
+            "Yuzde": 9.09
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202210",
+        "yilAdi": "2021-2022",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 684,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 156,
+            "Yuzde": 22.81
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 157,
+            "Yuzde": 22.95
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 161,
+            "Yuzde": 23.54
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 79,
+            "Yuzde": 11.55
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 22,
+            "Yuzde": 3.22
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 19,
+            "Yuzde": 2.78
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 7,
+            "Yuzde": 1.02
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 23,
+            "Yuzde": 3.36
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 59,
+            "Yuzde": 8.63
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202310",
+        "yilAdi": "2022-2023",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 513,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 128,
+            "Yuzde": 24.95
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 138,
+            "Yuzde": 26.9
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 117,
+            "Yuzde": 22.81
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 55,
+            "Yuzde": 10.72
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 22,
+            "Yuzde": 4.29
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 8,
+            "Yuzde": 1.56
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 4,
+            "Yuzde": 0.78
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 41,
+            "Yuzde": 7.99
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202410",
+        "yilAdi": "2023-2024",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 609,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 71,
+            "Yuzde": 11.66
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 74,
+            "Yuzde": 12.15
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 82,
+            "Yuzde": 13.46
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 81,
+            "Yuzde": 13.3
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 68,
+            "Yuzde": 11.17
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 56,
+            "Yuzde": 9.2
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 42,
+            "Yuzde": 6.9
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 29,
+            "Yuzde": 4.76
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 21,
+            "Yuzde": 3.45
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 16,
+            "Yuzde": 2.63
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 11,
+            "Yuzde": 1.81
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 9,
+            "Yuzde": 1.48
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 5,
+            "Yuzde": 0.82
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 11,
+            "Yuzde": 1.81
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 33,
+            "Yuzde": 5.42
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202510",
+        "yilAdi": "2024-2025",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 408,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 79,
+            "Yuzde": 19.36
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 42,
+            "Yuzde": 10.29
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 56,
+            "Yuzde": 13.73
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 49,
+            "Yuzde": 12.01
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 30,
+            "Yuzde": 7.35
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 35,
+            "Yuzde": 8.58
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 36,
+            "Yuzde": 8.82
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 12,
+            "Yuzde": 2.94
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 9,
+            "Yuzde": 2.21
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 5,
+            "Yuzde": 1.23
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 6,
+            "Yuzde": 1.47
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 4,
+            "Yuzde": 0.98
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 3,
+            "Yuzde": 0.74
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 10,
+            "Yuzde": 2.45
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 32,
+            "Yuzde": 7.84
+          }
+        ]
+      },
+      {
+        "dersNo": "111E",
+        "donemKodu": "202610",
+        "yilAdi": "2025-2026",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 445,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 79,
+            "Yuzde": 17.75
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 61,
+            "Yuzde": 13.71
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 75,
+            "Yuzde": 16.85
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 65,
+            "Yuzde": 14.61
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 46,
+            "Yuzde": 10.34
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 37,
+            "Yuzde": 8.31
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 18,
+            "Yuzde": 4.04
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 8,
+            "Yuzde": 1.8
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 13,
+            "Yuzde": 2.92
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 1,
+            "Yuzde": 0.22
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 2,
+            "Yuzde": 0.45
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 2,
+            "Yuzde": 0.45
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 10,
+            "Yuzde": 2.25
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 28,
+            "Yuzde": 6.29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brans": "TES",
+    "dersNo": "112E",
+    "terms": [
+      {
+        "dersNo": "112E",
+        "donemKodu": "201930",
+        "yilAdi": "2018-2019",
+        "donemTip": "Yaz Dönemi",
+        "toplamOgrenci": 30,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 10,
+            "Yuzde": 33.33
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 5,
+            "Yuzde": 16.67
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 3,
+            "Yuzde": 10.0
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 6,
+            "Yuzde": 20.0
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 2,
+            "Yuzde": 6.67
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 1,
+            "Yuzde": 3.33
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 1,
+            "Yuzde": 3.33
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 2,
+            "Yuzde": 6.67
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "201910",
+        "yilAdi": "2018-2019",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 488,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 82,
+            "Yuzde": 16.8
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 92,
+            "Yuzde": 18.85
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 98,
+            "Yuzde": 20.08
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 83,
+            "Yuzde": 17.01
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 33,
+            "Yuzde": 6.76
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 23,
+            "Yuzde": 4.71
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 5,
+            "Yuzde": 1.02
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 24,
+            "Yuzde": 4.92
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 46,
+            "Yuzde": 9.43
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202010",
+        "yilAdi": "2019-2020",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 624,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 116,
+            "Yuzde": 18.59
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 136,
+            "Yuzde": 21.79
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 143,
+            "Yuzde": 22.92
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 99,
+            "Yuzde": 15.87
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 35,
+            "Yuzde": 5.61
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 16,
+            "Yuzde": 2.56
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 10,
+            "Yuzde": 1.6
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 10,
+            "Yuzde": 1.6
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 58,
+            "Yuzde": 9.29
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202130",
+        "yilAdi": "2020-2021",
+        "donemTip": "Yaz Dönemi",
+        "toplamOgrenci": 11,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 1,
+            "Yuzde": 9.09
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 4,
+            "Yuzde": 36.36
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 3,
+            "Yuzde": 27.27
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 1,
+            "Yuzde": 9.09
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 2,
+            "Yuzde": 18.18
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202110",
+        "yilAdi": "2020-2021",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 575,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 152,
+            "Yuzde": 26.43
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 152,
+            "Yuzde": 26.43
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 112,
+            "Yuzde": 19.48
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 44,
+            "Yuzde": 7.65
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 23,
+            "Yuzde": 4.0
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 17,
+            "Yuzde": 2.96
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 6,
+            "Yuzde": 1.04
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 33,
+            "Yuzde": 5.74
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 35,
+            "Yuzde": 6.09
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202210",
+        "yilAdi": "2021-2022",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 664,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 163,
+            "Yuzde": 24.55
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 147,
+            "Yuzde": 22.14
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 115,
+            "Yuzde": 17.32
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 89,
+            "Yuzde": 13.4
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 41,
+            "Yuzde": 6.17
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 21,
+            "Yuzde": 3.16
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 8,
+            "Yuzde": 1.2
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 26,
+            "Yuzde": 3.92
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 52,
+            "Yuzde": 7.83
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202310",
+        "yilAdi": "2022-2023",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 506,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 98,
+            "Yuzde": 19.37
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 109,
+            "Yuzde": 21.54
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 118,
+            "Yuzde": 23.32
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 64,
+            "Yuzde": 12.65
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 28,
+            "Yuzde": 5.53
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 27,
+            "Yuzde": 5.34
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 7,
+            "Yuzde": 1.38
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 8,
+            "Yuzde": 1.58
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 47,
+            "Yuzde": 9.29
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202410",
+        "yilAdi": "2023-2024",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 615,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 74,
+            "Yuzde": 12.03
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 52,
+            "Yuzde": 8.46
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 71,
+            "Yuzde": 11.54
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 77,
+            "Yuzde": 12.52
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 68,
+            "Yuzde": 11.06
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 47,
+            "Yuzde": 7.64
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 49,
+            "Yuzde": 7.97
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 41,
+            "Yuzde": 6.67
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 27,
+            "Yuzde": 4.39
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 14,
+            "Yuzde": 2.28
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 10,
+            "Yuzde": 1.63
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 11,
+            "Yuzde": 1.79
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 7,
+            "Yuzde": 1.14
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 30,
+            "Yuzde": 4.88
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 37,
+            "Yuzde": 6.02
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202510",
+        "yilAdi": "2024-2025",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 434,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 72,
+            "Yuzde": 16.59
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 64,
+            "Yuzde": 14.75
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 62,
+            "Yuzde": 14.29
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 45,
+            "Yuzde": 10.37
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 39,
+            "Yuzde": 8.99
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 24,
+            "Yuzde": 5.53
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 16,
+            "Yuzde": 3.69
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 17,
+            "Yuzde": 3.92
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 15,
+            "Yuzde": 3.46
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 10,
+            "Yuzde": 2.3
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 9,
+            "Yuzde": 2.07
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 3,
+            "Yuzde": 0.69
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 5,
+            "Yuzde": 1.15
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 11,
+            "Yuzde": 2.53
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 41,
+            "Yuzde": 9.45
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202620",
+        "yilAdi": "2025-2026",
+        "donemTip": "Bahar Dönemi",
+        "toplamOgrenci": 1,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 1,
+            "Yuzde": 100.0
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      },
+      {
+        "dersNo": "112E",
+        "donemKodu": "202610",
+        "yilAdi": "2025-2026",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 458,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 93,
+            "Yuzde": 20.31
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 59,
+            "Yuzde": 12.88
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 62,
+            "Yuzde": 13.54
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 48,
+            "Yuzde": 10.48
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 42,
+            "Yuzde": 9.17
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 43,
+            "Yuzde": 9.39
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 24,
+            "Yuzde": 5.24
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 14,
+            "Yuzde": 3.06
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 7,
+            "Yuzde": 1.53
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 2,
+            "Yuzde": 0.44
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 5,
+            "Yuzde": 1.09
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 4,
+            "Yuzde": 0.87
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 6,
+            "Yuzde": 1.31
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 12,
+            "Yuzde": 2.62
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 37,
+            "Yuzde": 8.08
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brans": "TES",
+    "dersNo": "113E",
+    "terms": [
+      {
+        "dersNo": "113E",
+        "donemKodu": "201930",
+        "yilAdi": "2018-2019",
+        "donemTip": "Yaz Dönemi",
+        "toplamOgrenci": 36,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 10,
+            "Yuzde": 27.78
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 8,
+            "Yuzde": 22.22
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 9,
+            "Yuzde": 25.0
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 1,
+            "Yuzde": 2.78
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 1,
+            "Yuzde": 2.78
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 1,
+            "Yuzde": 2.78
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 6,
+            "Yuzde": 16.67
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "201910",
+        "yilAdi": "2018-2019",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 480,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 89,
+            "Yuzde": 18.54
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 96,
+            "Yuzde": 20.0
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 113,
+            "Yuzde": 23.54
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 52,
+            "Yuzde": 10.83
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 38,
+            "Yuzde": 7.92
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 12,
+            "Yuzde": 2.5
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 8,
+            "Yuzde": 1.67
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 24,
+            "Yuzde": 5.0
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 46,
+            "Yuzde": 9.58
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202010",
+        "yilAdi": "2019-2020",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 618,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 99,
+            "Yuzde": 16.02
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 116,
+            "Yuzde": 18.77
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 150,
+            "Yuzde": 24.27
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 102,
+            "Yuzde": 16.5
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 49,
+            "Yuzde": 7.93
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 21,
+            "Yuzde": 3.4
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 5,
+            "Yuzde": 0.81
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 8,
+            "Yuzde": 1.29
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 68,
+            "Yuzde": 11.0
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202130",
+        "yilAdi": "2020-2021",
+        "donemTip": "Yaz Dönemi",
+        "toplamOgrenci": 19,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 3,
+            "Yuzde": 15.79
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 3,
+            "Yuzde": 15.79
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 4,
+            "Yuzde": 21.05
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 6,
+            "Yuzde": 31.58
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 1,
+            "Yuzde": 5.26
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 1,
+            "Yuzde": 5.26
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 1,
+            "Yuzde": 5.26
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202110",
+        "yilAdi": "2020-2021",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 573,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 122,
+            "Yuzde": 21.29
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 141,
+            "Yuzde": 24.61
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 158,
+            "Yuzde": 27.57
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 38,
+            "Yuzde": 6.63
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 29,
+            "Yuzde": 5.06
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 6,
+            "Yuzde": 1.05
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 7,
+            "Yuzde": 1.22
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 33,
+            "Yuzde": 5.76
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 39,
+            "Yuzde": 6.81
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202230",
+        "yilAdi": "2021-2022",
+        "donemTip": "Yaz Dönemi",
+        "toplamOgrenci": 16,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 4,
+            "Yuzde": 25.0
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 1,
+            "Yuzde": 6.25
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 1,
+            "Yuzde": 6.25
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 5,
+            "Yuzde": 31.25
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 1,
+            "Yuzde": 6.25
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 1,
+            "Yuzde": 6.25
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 3,
+            "Yuzde": 18.75
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202220",
+        "yilAdi": "2021-2022",
+        "donemTip": "Bahar Dönemi",
+        "toplamOgrenci": 2,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 2,
+            "Yuzde": 100.0
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202210",
+        "yilAdi": "2021-2022",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 659,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 130,
+            "Yuzde": 19.73
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 154,
+            "Yuzde": 23.37
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 138,
+            "Yuzde": 20.94
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 105,
+            "Yuzde": 15.93
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 36,
+            "Yuzde": 5.46
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 18,
+            "Yuzde": 2.73
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 3,
+            "Yuzde": 0.46
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 15,
+            "Yuzde": 2.28
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 60,
+            "Yuzde": 9.1
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202330",
+        "yilAdi": "2022-2023",
+        "donemTip": "Yaz Dönemi",
+        "toplamOgrenci": 21,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 4,
+            "Yuzde": 19.05
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 3,
+            "Yuzde": 14.29
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 8,
+            "Yuzde": 38.1
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 1,
+            "Yuzde": 4.76
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 1,
+            "Yuzde": 4.76
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 2,
+            "Yuzde": 9.52
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 1,
+            "Yuzde": 4.76
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 1,
+            "Yuzde": 4.76
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202310",
+        "yilAdi": "2022-2023",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 497,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 99,
+            "Yuzde": 19.92
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 106,
+            "Yuzde": 21.33
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 118,
+            "Yuzde": 23.74
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 63,
+            "Yuzde": 12.68
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 32,
+            "Yuzde": 6.44
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 14,
+            "Yuzde": 2.82
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 11,
+            "Yuzde": 2.21
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 10,
+            "Yuzde": 2.01
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 44,
+            "Yuzde": 8.85
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202410",
+        "yilAdi": "2023-2024",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 609,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 96,
+            "Yuzde": 15.76
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 56,
+            "Yuzde": 9.2
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 61,
+            "Yuzde": 10.02
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 60,
+            "Yuzde": 9.85
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 66,
+            "Yuzde": 10.84
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 57,
+            "Yuzde": 9.36
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 34,
+            "Yuzde": 5.58
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 39,
+            "Yuzde": 6.4
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 28,
+            "Yuzde": 4.6
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 25,
+            "Yuzde": 4.11
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 14,
+            "Yuzde": 2.3
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 6,
+            "Yuzde": 0.99
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 12,
+            "Yuzde": 1.97
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 13,
+            "Yuzde": 2.13
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 42,
+            "Yuzde": 6.9
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202510",
+        "yilAdi": "2024-2025",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 422,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 61,
+            "Yuzde": 14.45
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 45,
+            "Yuzde": 10.66
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 56,
+            "Yuzde": 13.27
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 37,
+            "Yuzde": 8.77
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 46,
+            "Yuzde": 10.9
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 29,
+            "Yuzde": 6.87
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 21,
+            "Yuzde": 4.98
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 20,
+            "Yuzde": 4.74
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 12,
+            "Yuzde": 2.84
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 18,
+            "Yuzde": 4.27
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 5,
+            "Yuzde": 1.18
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 8,
+            "Yuzde": 1.9
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 15,
+            "Yuzde": 3.55
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 9,
+            "Yuzde": 2.13
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 40,
+            "Yuzde": 9.48
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202610",
+        "yilAdi": "2025-2026",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 452,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 87,
+            "Yuzde": 19.25
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 76,
+            "Yuzde": 16.81
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 67,
+            "Yuzde": 14.82
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 65,
+            "Yuzde": 14.38
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 36,
+            "Yuzde": 7.96
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 30,
+            "Yuzde": 6.64
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 19,
+            "Yuzde": 4.2
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 7,
+            "Yuzde": 1.55
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 8,
+            "Yuzde": 1.77
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 3,
+            "Yuzde": 0.66
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 6,
+            "Yuzde": 1.33
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 2,
+            "Yuzde": 0.44
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 4,
+            "Yuzde": 0.88
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 15,
+            "Yuzde": 3.32
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 27,
+            "Yuzde": 5.97
+          }
+        ]
+      }
+    ]
+  }
+]
