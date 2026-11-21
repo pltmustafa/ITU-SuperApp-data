@@ -1,0 +1,266 @@
+[
+  {
+    "brans": "SEC",
+    "dersNo": "113E",
+    "terms": [
+      {
+        "dersNo": "113E",
+        "donemKodu": "202510",
+        "yilAdi": "2024-2025",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 6,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 4,
+            "Yuzde": 66.67
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 2,
+            "Yuzde": 33.33
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      },
+      {
+        "dersNo": "113E",
+        "donemKodu": "202610",
+        "yilAdi": "2025-2026",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 35,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 18,
+            "Yuzde": 51.43
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 7,
+            "Yuzde": 20.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 3,
+            "Yuzde": 8.57
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 2,
+            "Yuzde": 5.71
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 1,
+            "Yuzde": 2.86
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 1,
+            "Yuzde": 2.86
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 3,
+            "Yuzde": 8.57
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brans": "SEC",
+    "dersNo": "211E",
+    "terms": [
+      {
+        "dersNo": "211E",
+        "donemKodu": "202610",
+        "yilAdi": "2025-2026",
+        "donemTip": "Güz Dönemi",
+        "toplamOgrenci": 11,
+        "dagilim": [
+          {
+            "HarfNotu": "AA",
+            "Sayi": 4,
+            "Yuzde": 36.36
+          },
+          {
+            "HarfNotu": "BA+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BA",
+            "Sayi": 2,
+            "Yuzde": 18.18
+          },
+          {
+            "HarfNotu": "BB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "BB",
+            "Sayi": 1,
+            "Yuzde": 9.09
+          },
+          {
+            "HarfNotu": "CB+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CB",
+            "Sayi": 1,
+            "Yuzde": 9.09
+          },
+          {
+            "HarfNotu": "CC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "CC",
+            "Sayi": 1,
+            "Yuzde": 9.09
+          },
+          {
+            "HarfNotu": "DC+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DC",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD+",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "DD",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          },
+          {
+            "HarfNotu": "FF",
+            "Sayi": 2,
+            "Yuzde": 18.18
+          },
+          {
+            "HarfNotu": "VF",
+            "Sayi": 0,
+            "Yuzde": 0.0
+          }
+        ]
+      }
+    ]
+  }
+]
